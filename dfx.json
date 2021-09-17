@@ -1,7 +1,7 @@
 {
   "canisters": {
     "to_do": {
-      "main": "src/to_do/main.mo",
+      "main": "src/backend/main.mo",
       "type": "motoko"
     },
     "to_do_assets": {
